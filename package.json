@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "battery-info": "^1.0.0",
+    "battery-level": "^3.0.0",
+    "systeminformation": "^5.31.3"
+  }
+}
